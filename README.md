@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Luis Caparroz Santos 👋
+
+Ph.D. student and MSc in CS. Passionate about algorithms. Developer Project .Net at GFT Tech. 
+
+- I’m currently learning more about metaheuristics and otimization problems.
+
+> The math of time is simple. You have less than you think and need more than you think. - Kevin Ashton
 
 <!--
 **luiscarlosjunior/luiscarlosjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
