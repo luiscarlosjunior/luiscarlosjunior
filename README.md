@@ -1,6 +1,6 @@
 ### Hi there, I'm Luis Caparroz Santos 👋
 
-Ph.D. student and MSc in CS. Passionate about algorithms. Developer Project .Net at GFT Tech. 
+Ph.D. student and MSc in CS. Passionate about algorithms and research. Developer Project .Net at GFT Tech. 
 
 - I’m currently learning more about metaheuristics and otimization problems.
 
