@@ -1,8 +1,9 @@
 ### Hi there, I'm Luis Caparroz Santos 👋
 
-Ph.D. student and MSc in CS. Passionate about algorithms and research. Developer Project .Net at GFT Tech. 
+Ph.D. student and MSc in CS. Passionate about algorithms and research. 
+Professor University and Developer Project .Net at GFT Tech. 
 
-- I’m currently learning more about metaheuristics and otimization problems.
+- I’m currently learning more about metaheuristics, otimization problems, data science and code clean.
 
 > The math of time is simple. You have less than you think and need more than you think. - Kevin Ashton
 
