@@ -7,6 +7,8 @@ Professor University and Developer Project .Net at GFT Tech.
 
 > The math of time is simple. You have less than you think and need more than you think. - Kevin Ashton
 
+[LinkedIn](https://www.linkedin.com/in/luis-caparroz-dos-santos-phd-in-progress-0814a377/)
+
 <!--
 **luiscarlosjunior/luiscarlosjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
