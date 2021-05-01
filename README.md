@@ -4,11 +4,7 @@ Ph.D. student and MSc in CS 👨‍💻. Passionate about algorithms and researc
 Professor University and Developer Project .Net at GFT Tech. 
 
 - I’m currently learning more about metaheuristics, otimization problems, data science and code clean.
-
-[LinkedIn](https://www.linkedin.com/in/luis-caparroz-dos-santos-phd-in-progress-0814a377/)
-
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscarlosjunior&theme=dark&show_icons=true)
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luiscarlosjunior&theme=dark&show_icons=true">
 
 - 🔭 I'm currently working on building classes for undergraduate computer science students.
 - 🌱 I am currently learning data science, database and communication. .
